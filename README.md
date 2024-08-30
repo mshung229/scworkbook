@@ -1,2 +1,2 @@
 # scworkbook
-Single Cell Analysis Workbook
+Single Cell Workbook
