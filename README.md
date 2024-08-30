@@ -1,2 +1,2 @@
-# scworkbook
-Single Cell Workbook
+# Single Cell Workbook (scworkbook)
+
